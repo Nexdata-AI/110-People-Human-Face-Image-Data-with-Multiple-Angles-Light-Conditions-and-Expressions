@@ -4,7 +4,8 @@
 ## Description
 110 People – Human Face Image Data with Multiple Angles, Light Conditions, and Expressions. The subjects are all young people. For each subject, 2,100 images were collected. The 2,100 images includes 14 kinds of camera angles *5 kinds of light conditions * 30 kinds of expressions. The data can be used for face recognition, 3D face reconstruction, etc.
 
-For more details, please refer to the link: https://bit.ly/3UCLrD2
+For more details, please refer to the link: https://www.nexdata.ai/datasets/4?source=Github
+
 
 ## Data size
 110 people, 2,100 images per person
